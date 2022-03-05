@@ -4,10 +4,6 @@
 ### [𝗥𝗘𝗣𝗟𝗬𝗥𝗔𝗜𝗗] [𝗥𝗔𝗜𝗗] [𝗕𝗜𝗚𝗦𝗣𝗔𝗠]
 ##   - [𝙄𝙏𝘼𝘾𝙃𝙄](@Sirupate)
 
-<p align="center">
-  <img src="https://telegra.ph/file/9e0fd3046345049a8cb57.jpg">
-</p>
-
 
 
 ## 🚀 Deploy on Heroku 
