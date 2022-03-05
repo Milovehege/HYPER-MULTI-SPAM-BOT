@@ -1,129 +1,54 @@
 RAID = [
-    "MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI VAHEEN NHI HAI KYA? 9 MAHINE RUK SAGI VAHEEN DETA HU 🤣🤣🤩",
-    "TERI MAA K BHOSDE ME AEROPLANEPARK KARKE UDAAN BHAR DUGA ✈️🛫",
-    "TERI MAA KI CHUT ME SUTLI BOMB FOD DUNGA TERI MAA KI JHAATE JAL KE KHAAK HO JAYEGI💣",
-    "TERI MAAKI CHUT ME SCOOTER DAAL DUGA👅",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI MAA KI CHUT KAKTE 🤱 GALI KE KUTTO 🦮 ME BAAT DUNGA PHIR 🍞 BREAD KI TARH KHAYENGE WO TERI MAA KI CHUT",
-    "DUDH HILAAUNGA TERI VAHEEN KE UPR NICHE 🆙🆒😙",
-    "TERI MAA KI CHUT ME ✋ HATTH DALKE 👶 BACCHE NIKAL DUNGA 😍",
-    "TERI BEHN KI CHUT ME KELE KE CHILKE 🍌🍌😍",
-    "TERI BHEN KI CHUT ME USERBOT LAGAAUNGA SASTE SPAM KE CHODE",
-    "TERI VAHEEN DHANDHE VAALI 😋😛",
-    "TERI MAA KE BHOSDE ME AC LAGA DUNGA SAARI GARMI NIKAL JAAYEGI",
-    "TERI VAHEEN KO HORLICKS PEELAUNGA MADARCHOD😚",
-    "TERI MAA KI GAAND ME SARIYA DAAL DUNGA MADARCHOD USI SARIYE PR TANG KE BACHE PAIDA HONGE 😱😱",
-    "TERI MAA KO KOLKATA VAALE JITU BHAIYA KA LUND MUBARAK 🤩🤩",
-    "TERI MUMMY KI FANTASY HU LAWDE, TU APNI BHEN KO SMBHAAL 😈😈",
-    "TERA PEHLA BAAP HU MADARCHOD ",
-    "TERI VAHEEN KE BHOSDE ME XVIDEOS.COM CHALA KE MUTH MAARUNGA 🤡😹",
-    "TERI MAA KA GROUP VAALON SAATH MILKE GANG BANG KRUNGA🙌🏻☠️ ",
-    "TERI ITEM KI GAAND ME LUND DAALKE,TERE JAISA EK OR NIKAAL DUNGA MADARCHOD🤘🏻🙌🏻☠️ ",
-    "AUKAAT ME REH VRNA GAAND ME DANDA DAAL KE MUH SE NIKAAL DUNGA SHARIR BHI DANDE JESA DIKHEGA 🙄🤭🤭",
-    "TERI MUMMY KE SAATH LUDO KHELTE KHELTE USKE MUH ME APNA LODA DE DUNGA☝🏻☝🏻😬",
-    "TERI VAHEEN KO APNE LUND PR ITNA JHULAAUNGA KI JHULTE JHULTE HI BACHA PAIDA KR DEGI👀👯 ",
-    "TERI MAA KI CHUT MEI BATTERY LAGA KE POWERBANK BANA DUNGA 🔋 🔥🤩",
-    "TERI MAA KI CHUT MEI C++ STRING ENCRYPTION LAGA DUNGA BAHTI HUYI CHUT RUK JAYEGIIII😈🔥😍",
-    "TERI MAA KE GAAND MEI JHAADU DAL KE MOR 🦚 BANA DUNGAA 🤩🥵😱",
-    "TERI CHUT KI CHUT MEI SHOULDERING KAR DUNGAA HILATE HUYE BHI DARD HOGAAA😱🤮👺",
-    "TERI MAA KO REDI PE BAITHAL KE USSE USKI CHUT BILWAUNGAA 💰 😵🤩",
-    "BHOSDIKE TERI MAA KI CHUT MEI 4 HOLE HAI UNME MSEAL LAGA BAHUT BAHETI HAI BHOFDIKE👊🤮🤢🤢",
-    "TERI BAHEN KI CHUT MEI BARGAD KA PED UGA DUNGAA CORONA MEI SAB OXYGEN LEKAR JAYENGE🤢🤩🥳",
-    "TERI MAA KI CHUT MEI SUDO LAGA KE BIGSPAM LAGA KE 9999 FUCK LAGAA DU 🤩🥳🔥",
-    "TERI VAHEN KE BHOSDIKE MEI BESAN KE LADDU BHAR DUNGA🤩🥳🔥😈",
-    "TERI MAA KI CHUT KHOD KE USME CYLINDER ⛽️ FIT KARKE USMEE DAL MAKHANI BANAUNGAAA🤩👊🔥",
-    "TERI MAA KI CHUT MEI SHEESHA DAL DUNGAAA AUR CHAURAHE PE TAANG DUNGA BHOSDIKE😈😱🤩",
-    "TERI MAA KI CHUT MEI CREDIT CARD DAL KE AGE SE 500 KE KAARE KAARE NOTE NIKALUNGAA BHOSDIKE💰💰🤩",
-    "TERI MAA KE SATH SUAR KA SEX KARWA DUNGAA EK SATH 6-6 BACHE DEGI💰🔥😱",
-    "TERI BAHEN KI CHUT MEI APPLE KA 18W WALA CHARGER 🔥🤩",
-    "TERI BAHEN KI GAAND MEI ONEPLUS KA WRAP CHARGER 30W HIGH POWER 💥😂😎",
-    "TERI BAHEN KI CHUT KO AMAZON SE ORDER KARUNGA 10 rs MEI AUR FLIPKART PE 20 RS MEI BECH DUNGA🤮👿😈🤖",
-    "TERI MAA KI BADI BHUND ME ZOMATO DAL KE SUBWAY KA BFF VEG SUB COMBO [15cm , 16 inches ] ORDER COD KRVAUNGA OR TERI MAA JAB DILIVERY DENE AYEGI TAB USPE JAADU KRUNGA OR FIR 9 MONTH BAAD VO EK OR FREE DILIVERY DEGI🙀👍🥳🔥",
-    "TERI BHEN KI CHUT KAALI🙁🤣💥",
-    "TERI MAA KI CHUT ME CHANGES COMMIT KRUGA FIR TERI BHEEN KI CHUT AUTOMATICALLY UPDATE HOJAAYEGI🤖🙏🤔",
-    "TERI MAUSI KE BHOSDE MEI INDIAN RAILWAY 🚂💥😂",
-    "TU TERI BAHEN TERA KHANDAN SAB BAHEN KE LAWDE RANDI HAI RANDI 🤢✅🔥",
-    "TERI BAHEN KI CHUT MEI IONIC BOND BANA KE VIRGINITY LOOSE KARWA DUNGA USKI 📚 😎🤩",
-    "TERI RANDI MAA SE PUCHNA BAAP KA NAAM BAHEN KE LODEEEEE 🤩🥳😳",
-    "TU AUR TERI MAA DONO KI BHOSDE MEI METRO CHALWA DUNGA MADARXHOD 🚇🤩😱🥶",
-    "TERI MAA KO ITNA CHODUNGA TERA BAAP BHI USKO PAHCHANANE SE MANA KAR DEGA😂👿🤩",
-    "TERI BAHEN KE BHOSDE MEI HAIR DRYER CHALA DUNGAA💥🔥🔥",
-    "TERI MAA KI CHUT MEI TELEGRAM KI SARI RANDIYON KA RANDI KHANA KHOL DUNGAA👿🤮😎",
-    "TERI MAA KI CHUT ALEXA DAL KEE DJ BAJAUNGAAA 🎶 ⬆️🤩💥",
-    "TERI MAA KE BHOSDE MEI GITHUB DAL KE APNA BOT HOST KARUNGAA 🤩👊👤😍",
-    "TERI BAHEN KA VPS BANA KE 24*7 BASH CHUDAI COMMAND DE DUNGAA 🤩💥🔥🔥",
-    "TERI MUMMY KI CHUT MEI TERE LAND KO DAL KE KAAT DUNGA MADARCHOD 🔪😂🔥",
-    "SUN TERI MAA KA BHOSDA AUR TERI BAHEN KA BHI BHOSDA 👿😎👊",
-    "TUJHE DEKH KE TERI RANDI BAHEN PE TARAS ATA HAI MUJHE BAHEN KE LODEEEE 👿💥🤩🔥",
-    "SUN MADARCHOD JYADA NA UCHAL MAA CHOD DENGE EK MIN MEI ✅🤣🔥🤩",
-    "APNI AMMA SE PUCHNA USKO US KAALI RAAT MEI KAUN CHODNEE AYA THAAA! TERE IS PAPA KA NAAM LEGI 😂👿😳",
-    "TOHAR BAHIN CHODU BBAHEN KE LAWDE USME MITTI DAL KE CEMENT SE BHAR DU 🏠🤢🤩💥",
-    "TUJHE AB TAK NAHI SMJH AYA KI MAI HI HU TUJHE PAIDA KARNE WALA BHOSDIKEE APNI MAA SE PUCH RANDI KE BACHEEEE 🤩👊👤😍",
-    "TERI MAA KE BHOSDE MEI SPOTIFY DAL KE LOFI BAJAUNGA DIN BHAR 😍🎶🎶💥",
-    "TERI MAA KA NAYA RANDI KHANA KHOLUNGA CHINTA MAT KAR 👊🤣🤣😳",
-    "TERA BAAP HU BHOSDIKE TERI MAA KO RANDI KHANE PE CHUDWA KE US PAISE KI DAARU PEETA HU 🍷🤩🔥",
-    "TERI BAHEN KI CHUT MEI APNA BADA SA LODA GHUSSA DUNGAA KALLAAP KE MAR JAYEGI 🤩😳😳🔥",
-    "TOHAR MUMMY KI CHUT MEI PURI KI PURI KINGFISHER KI BOTTLE DAL KE TOD DUNGA ANDER HI 😱😂🤩",
-    "TERI MAA KO ITNA CHODUNGA KI SAPNE MEI BHI MERI CHUDAI YAAD KAREGI RANDI 🥳😍👊💥",
-    "TERI MUMMY AUR BAHEN KO DAUDA DAUDA NE CHODUNGA UNKE NO BOLNE PE BHI LAND GHUSA DUNGA ANDER TAK 😎😎🤣🔥",
-    "TERI MUMMY KI CHUT KO ONLINE OLX PE BECHUNGA AUR PAISE SE TERI BAHEN KA KOTHA KHOL DUNGA 😎🤩😝😍",
-    "TERI MAA KE BHOSDA ITNA CHODUNGA KI TU CAH KE BHI WO MAST CHUDAI SE DUR NHI JA PAYEGAA 😏😏🤩😍",
-    "SUN BE RANDI KI AULAAD TU APNI BAHEN SE SEEKH KUCH KAISE GAAND MARWATE HAI😏🤬🔥💥",
-    "TERI MAA KA YAAR HU MEI AUR TERI BAHEN KA PYAAR HU MEI AJA MERA LAND CHOOS LE 🤩🤣💥",
-    "TERI BHEN KI CHUT ME USERBOT LAGAAUNGA SASTE SPAM KE CHODE",
-    "TERI MAA KI GAAND ME SARIYA DAAL DUNGA MADARCHOD USI SARIYE PR TANG KE BACHE PAIDA HONGE 😱😱",
-    "TERI MAA KI CHUT ME ✋ HATTH DALKE 👶 BACCHE NIKAL DUNGA 😍",
-    "TERI BEHN KI CHUT ME KELE KE CHILKE 🤤🤤",
-    "TERI MAA KI CHUT ME SUTLI BOMB FOD DUNGA TERI MAA KI JHAATE JAL KE KHAAK HO JAYEGI💣💋",
-    "TERI VAHEEN KO HORLICKS PEELAKE CHODUNGA MADARCHOD😚",
-    "TERI ITEM KI GAAND ME LUND DAALKE,TERE JAISA EK OR NIKAAL DUNGA MADARCHOD😆🤤💋",
-    "TERI VAHEEN KO APNE LUND PR ITNA JHULAAUNGA KI JHULTE JHULTE HI BACHA PAIDA KR DEGI 💦💋",
-    "SUAR KE PILLE TERI MAAKO SADAK PR LITAKE CHOD DUNGA 😂😆🤤",
-    "ABE TERI MAAKA BHOSDA MADERCHOOD KR PILLE PAPA SE LADEGA TU 😼😂🤤",
-    "GALI GALI NE SHOR HE TERI MAA RANDI CHOR HE 💋💋💦",
-    "ABE TERI BEHEN KO CHODU RANDIKE PILLE KUTTE KE CHODE 😂👻🔥",
-    "TERI MAAKO AISE CHODA AISE CHODA TERI MAAA BED PEHI MUTH DIA 💦💦💦💦",
-    "TERI BEHEN KE BHOSDE ME AAAG LAGADIA MERA MOTA LUND DALKE 🔥🔥💦😆😆",
-    "RANDIKE BACHHE TERI MAAKO CHODU CHAL NIKAL",
-    "KITNA CHODU TERI RANDI MAAKI CHUTH ABB APNI BEHEN KO BHEJ 😆👻🤤",
-    "TERI BEHEN KOTO CHOD CHODKE PURA FAAD DIA CHUTH ABB TERI GF KO BHEJ 😆💦🤤",
-    "TERI GF KO ETNA CHODA BEHEN KE LODE TERI GF TO MERI RANDI BANGAYI ABB CHAL TERI MAAKO CHODTA FIRSE ♥️💦😆😆😆😆",
-    "HARI HARI GHAAS ME JHOPDA TERI MAAKA BHOSDA 🤣🤣💋💦",
-    "CHAL TERE BAAP KO BHEJ TERA BASKA NHI HE PAPA SE LADEGA TU",
-    "TERI BEHEN KI CHUTH ME BOMB DALKE UDA DUNGA MAAKE LAWDE",
-    "TERI MAAKO TRAIN ME LEJAKE TOP BED PE LITAKE CHOD DUNGA SUAR KE PILLE 🤣🤣💋💋",
-    "TERI MAAAKE NUDES GOOGLE PE UPLOAD KARDUNGA BEHEN KE LAEWDE 👻🔥",
-    "TERI MAAAKE NUDES GOOGLE PE UPLOAD KARDUNGA BEHEN KE LAEWDE 👻🔥",
-    "TERI BEHEN KO CHOD CHODKE VIDEO BANAKE XNXX.COM PE NEELAM KARDUNGA KUTTE KE PILLE 💦💋",
-    "TERI MAAAKI CHUDAI KO PORNHUB.COM PE UPLOAD KARDUNGA SUAR KE CHODE 🤣💋💦",
-    "ABE TERI BEHEN KO CHODU RANDIKE BACHHE TEREKO CHAKKO SE PILWAVUNGA RANDIKE BACHHE 🤣🤣",
-    "TERI MAAKI CHUTH FAADKE RAKDIA MAAKE LODE JAA ABB SILWALE 👄👄",
-    "TERI BEHEN KI CHUTH ME MERA LUND KAALA",
-    "TERI BEHEN LETI MERI LUND BADE MASTI SE TERI BEHEN KO MENE CHOD DALA BOHOT SASTE SE",
-    "BETE TU BAAP SE LEGA PANGA TERI MAAA KO CHOD DUNGA KARKE NANGA 💦💋",
-    "HAHAHAH MERE BETE AGLI BAAR APNI MAAKO LEKE AAYA MATH KAT OR MERE MOTE LUND SE CHUDWAYA MATH KAR",
-    "CHAL BETA TUJHE MAAF KIA 🤣 ABB APNI GF KO BHEJ",
-    "SHARAM KAR TERI BEHEN KA BHOSDA KITNA GAALIA SUNWAYEGA APNI MAAA BEHEN KE UPER",
-    "ABE RANDIKE BACHHE AUKAT NHI HETO APNI RANDI MAAKO LEKE AAYA MATH KAR HAHAHAHA",
-    "KIDZ MADARCHOD TERI MAAKO CHOD CHODKE TERR LIYE BHAI DEDIYA",
-    "JUNGLE ME NACHTA HE MORE TERI MAAKI CHUDAI DEKKE SAB BOLTE ONCE MORE ONCE MORE 🤣🤣💦💋",
-    "GALI GALI ME REHTA HE SAND TERI MAAKO CHOD DALA OR BANA DIA RAND 🤤🤣",
-    "SAB BOLTE MUJHKO PAPA KYOUNKI MENE BANADIA TERI MAAKO PREGNENT 🤣🤣",
-    "SUAR KE PILLE TERI MAAKI CHUTH ME SUAR KA LOUDA OR TERI BEHEN KI CHUTH ME MERA LODA",
-    "CHAL CHAL APNI MAAKI CHUCHIYA DIKA",
-    "HAHAHAHA BACHHE TERI MAAAKO CHOD DIA NANGA KARKE",
-    "TERI GF HE BADI SEXY USKO PILAKE CHOODENGE PEPSI",
-    "2 RUPAY KI PEPSI TERI MUMMY SABSE SEXY 💋💦",
-    "TERI MAAKO CHEEMS SE CHUDWAVUNGA MADERCHOOD KE PILLE 💦🤣",
-    "TERI BEHEN KI CHUTH ME MUTHKE FARAR HOJAVUNGA HUI HUI HUI",
-    "SPEED LAAA TERI BEHEN CHODU RANDIKE PILLE 💋💦🤣",
-    "ARE RE MERE BETE KYOUN SPEED PAKAD NA PAAA RAHA APNE BAAP KA HAHAH🤣🤣",
-    "SUN SUN SUAR KE PILLE JHANTO KE SOUDAGAR APNI MUMMY KI NUDES BHEJ",
-    "ABE SUN LODE TERI BEHEN KA BHOSDA FAAD DUNGA",
-    "TERI MAAKO KHULE BAJAR ME CHOD DALA 🤣🤣💋",
+    𝙂𝘼𝙉𝘿 𝙆𝙀 𝘾𝙃𝙃𝙀𝘿 𝙈𝙀 𝙏𝙀𝙍𝙀 𝘼𝙎𝙃𝙒𝘼𝙂𝘼𝙉𝘿𝙃𝘼 𝘿𝘼𝙇𝙆𝙀 𝙋𝙀𝙇𝙐𝙉𝙂𝘼 😂
+    Sᴀʟᴇ ᴋᴀʜɪɴᴏᴏʀ ʜɪʀᴇ ᴊᴀɪsᴀ ʟᴀᴜɴᴅ ʜᴀɪ ᴍᴇʀᴀ ᴛᴇʀɪ ᴀᴍᴍʏ ᴋᴏ ᴄʜᴀᴛᴀ ᴅᴜɴɢᴀ ɴ ᴍᴀʀ ᴊᴀʏᴇɢɪ😂
+    ᴠᴀᴄᴄɪɴᴇ ʟᴀɢᴀᴜɴɢᴀ ᴛᴇʀɪ ᴀᴍᴍʏ ᴋᴏ ᴀᴜʀ ᴡᴏ ᴠ ᴄʜᴏᴏᴄʜɪ ᴍᴇ ᴜsᴋᴇ ᴄʜʜᴇᴅ ᴍᴇ 🤣😂
+    ʝɦǟռȶʊʟʟɛ ֆǟʟɛ ǟɨֆǟ ʍǟʀʊռɢǟ ռ ӄɨ ɦǟɢ ɖɛɢǟ քǟռȶ ӄɛ ɦɨ ʍǟɖǟʀƈɦօɖ 😂
+    ȶɛʀɨ ǟʍʍʏ ӄɛ ɮɦօӼɖɛ ʍɛ ǟʍƈɦʊʀ ɖǟʟӄɛ ɢɦǟքƈɦǟʊռɢǟᴠᴀᴄᴄɪɴᴇ ʟᴀɢᴀᴜɴɢᴀ ᴛᴇʀɪ ᴀᴍᴍʏ ᴋᴏ ᴀᴜʀ ᴡᴏ ᴠ ᴄʜᴏᴏᴄʜɪ ᴍᴇ ᴜsᴋᴇ ᴄʜʜᴇᴅ ᴍᴇ 🤣😂
+    𝙑𝙀𝙇𝙑𝙀𝙏 𝙆𝙀 𝙍𝘼𝙅𝘼𝙄 𝙈𝙀 𝘾𝙃𝙊𝘿𝙐𝙉𝙂𝘼 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙊 𝙎𝘼𝙍𝘼 𝙋𝘼𝙉𝙄 𝙎𝙐𝙆𝙃𝘼 𝘿𝙐𝙉𝙂𝘼 𝘼𝙐𝙍 𝙈𝙐𝙃 𝙈𝙀 𝙐𝙎𝙆𝙀 𝘼𝙋𝙉𝘼 𝙆𝘼𝘾𝙃𝘼 𝘿𝘼𝙇𝘿𝙐𝙉𝙂𝘼 𝙏𝘼𝙆𝙄 𝘾𝙃𝙄𝙇𝙇𝘼𝙔𝙀 𝙉𝙃𝙄 𝙁𝙄𝙍 𝘿𝙃𝙊𝙆𝙀 𝙎𝙀 𝙂𝘼𝙉𝘿 𝙈𝙀 𝙇𝙊𝘿𝘼 𝙅𝙃𝘼𝙏𝙆𝙀 𝙎𝙀 𝘿𝘼𝙇 𝘿𝙐𝙉𝙂𝘼 😂😂
+    𝙎𝘼𝙉𝙄𝙏𝙄𝙕𝙀𝙍 𝙇𝘼𝙂𝘼 𝙇𝘼𝙂𝘼 𝙆𝙀 𝙋𝙀𝙇𝙐𝙉𝙂𝘼 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙊 🎉😂
+    𝐒𝐀𝐋𝐀 𝐆𝐀𝐍𝐃𝐔𝐆𝐈𝐑𝐈 𝐁𝐀𝐍𝐃 𝐊𝐀𝐑 𝐀𝐔𝐑 𝐃𝐀𝐋𝐀 𝐆𝐈𝐑𝐈 𝐒𝐓𝐀𝐑𝐓 𝐊𝐀𝐑𝐃𝐄 𝐊𝐘𝐔𝐊𝐈 𝐓𝐄𝐑𝐄 𝐆𝐇𝐀𝐑 𝐌𝐄 𝐉𝐎 𝐂𝐇𝐎𝐎𝐂𝐇𝐈𝐃𝐇𝐀𝐑𝐈 𝐇𝐀𝐈 𝐍𝐀 𝐌𝐀𝐒𝐓 𝐄𝐀𝐍𝐃𝐈 𝐁𝐀𝐍𝐄𝐆𝐈🔪
+    𝙎𝙐𝙉𝘼 𝙃𝘼𝙄 𝙏𝙀𝙍𝙀 𝙂𝙃𝘼𝙍 𝙆𝙄 𝘼𝙍𝙏𝙃𝙄𝙆 𝙃𝘼𝙇𝘼𝙆 𝙏𝙃𝙄𝙆 𝙉𝙃𝙄 𝙃𝘼𝙄 ❓𝘼𝙋𝙉𝙄 𝙈𝘼 𝙆𝙊 𝘽𝙃𝙀𝙅 𝙈𝙀𝙍𝙀 𝙋𝘼𝙎𝙎 𝙐𝙎𝙆𝙄 𝘾𝙃𝙐𝙏 𝙆𝙊 𝘼𝘾𝘾𝙃𝘼 𝘽𝙃𝘼𝙑 𝙇𝘼𝙂𝘼𝙐𝙉𝙂𝘼 💯❤️
+    𝙏𝙀𝙍𝙄 𝘼𝙈𝙈𝙔 𝙏𝙃𝙄𝙆 𝙃𝙊𝙅𝘼𝙔𝙀𝙂𝙄 𝙈𝙐𝙅𝙎𝙀 𝙀𝙆 𝙑𝘼𝘾𝘾𝙄𝙉𝙀 𝙇𝙀𝙅𝘼 9 𝙄𝙉𝘾𝙃 𝙒𝘼𝙇𝘼 𝙇𝙀𝙆𝙀 𝙋𝙀𝙇 𝘿𝙀𝙉𝘼 𝘼𝙋𝙉𝙄 𝙈𝘼 𝙆𝙀 𝙂𝘼𝙉𝘿 𝙈𝘼𝙄 😂👌
+    𝙇𝙋𝙂 𝙈𝙀𝙄 𝘼𝘼𝙂 𝙇𝘼𝙂𝘼 𝙆𝙀 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙀 𝘽𝙃𝙊𝙓𝘿𝙀 𝙈𝙀𝙄 𝙁𝙀𝙉𝙆 𝘿𝙐𝙉𝙂𝘼 𝘼𝙔𝙍 𝘽𝙃𝘼𝙂 𝙅𝘼𝙐𝙉𝙂𝘼 𝘼𝙉𝘿𝘼𝙍 𝙅𝘼𝙆𝙀 𝙁𝘼𝙏𝙀𝙂𝘼 𝘼𝙐𝙍 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙊 𝘽𝙊𝙓𝘿𝘼 𝘾𝙃𝙄𝙏𝙃𝘿𝘼 𝙐𝘿 𝙅𝘼𝙔𝙀𝙂𝘼😂💯
+    𝙏𝙀𝙍𝙄 𝘽𝙃𝙀𝙉 𝙆𝙊 𝘿𝘼𝙏𝙀 𝙋𝙀 𝙇𝙀𝙅𝘼𝙐𝙉𝙂𝘼 𝘼𝙐𝙍 𝘾𝙊𝙇𝘿 𝘿𝙍𝙄𝙉𝙆 𝙈𝘼𝙄 𝘼𝙋𝙉𝘼 𝙈𝙊𝙊𝙏 𝙈𝙄𝙇𝘼 𝘿𝙐𝙉𝙂𝘼 𝙁𝙄𝙍 𝙋𝙄𝙇𝘼𝙐𝙉𝙂𝘼 𝙐𝙎𝙆𝙊 😂😚
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙊 𝙎𝘼𝙆𝙊 𝙎𝘼𝙆𝙄 𝙂𝘼𝘼𝙉𝙀 𝙋𝙀 𝙉𝘼𝘾𝙃𝙒𝘼 𝙆𝙀 𝙋3𝙇𝙐𝙉𝙂𝘼 𝙆𝘼𝘾𝙃𝘼 𝙆𝘼𝘾𝙃
+    𝙏𝙐 𝘽𝙊𝙓𝘿𝙊 𝙆𝙀 𝙂𝙐𝙃 𝙆𝙃𝘼𝙉𝙀 𝘼𝘼𝙇𝘼 𝙄𝙉𝙎𝘼𝙉 𝙃𝘼𝙄 𝙏𝙀𝙍𝙄 𝙈𝘼 𝘽𝙃𝙄 𝘽𝘼𝘿𝙀 𝘾𝙃𝘼𝙒 𝙎𝙀 𝙈𝙀𝙍𝘼 𝙂𝙊𝙊𝙃 𝙆𝙃𝘼𝙏𝙄 𝙃𝘼𝙄🙊😂
+    𝘼𝘼𝙄𝙎𝘼 𝘾𝙃𝙊𝘿𝙐𝙉𝙂𝘼 𝙉𝘼 𝙅𝙃𝘼𝙉𝙏 𝙆𝙀 𝙅𝙃𝙄𝙉𝙂𝙀 𝘽𝙀𝙏𝙄𝘾𝙃𝙊𝘿 𝙏𝙀𝙍𝙄 𝙉𝘼𝙉𝙊 𝙔𝘼𝘼𝘿 𝘼𝙅𝘼𝙔𝙀𝙉𝙂𝙄 😌😂👍
+    𝙎𝘼𝙇𝙀 𝙂𝙃𝘼𝘿𝙄 𝙎𝘼𝙍𝙁 𝙆𝙄 𝙊𝙇𝘼𝘿 𝙋𝙀𝙃𝙇𝙀 𝙄𝙎𝙏𝙀𝙈𝘼𝙇 𝙆𝙍𝙊 𝙁𝙄𝙍 𝙑𝙄𝙎𝙒𝘼𝙎 𝙆𝙍𝙊🔪💯😂
+    𝙏𝙀𝙍𝙀 𝙈𝘼 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙈𝙀𝙄 𝙏𝙍𝘼𝙄𝙉 𝙇𝙀𝙆𝙀 𝙂𝙃𝙐𝙎 𝙅𝘼𝙐𝙉𝙂𝘼 𝙈𝘼𝘿𝘼𝙍𝘾𝙃𝙊𝘿 😂
+    𝙂𝘼𝙉𝘿𝙐 😂 𝙏𝙀𝙍𝙀 😍 𝙈𝘼 𝙆𝙀  𝘾𝙃𝙐𝙏 ❤️ 𝙈𝙀𝙄 𝙂𝙃𝙐𝙎 𝙆𝙀 𝘿𝙄𝙋𝘼𝙒𝘼𝙇𝙄 𝙈𝘼𝙉𝘼𝙐𝙉𝙂𝘼 😂🔱
+    𝘿𝙄𝙒𝘼𝙇𝙄 𝙆𝙀 𝘿𝙄𝙉 𝙅𝙄𝙎 𝘾𝙃𝙐𝙉𝙉𝙀 𝙎𝙀 𝙂𝙃𝘼𝙍 𝙋𝙀𝙉𝙏 𝙆𝙍𝙏𝙀 𝙃𝘼𝙄 𝙐𝙎𝙄 𝙎𝙀 𝙏𝙀𝙍𝙀 𝙈𝘼 𝙆𝙄 𝙂𝘼𝙉𝘿 𝙇𝘼𝙇 𝙆𝘼𝘿𝙆𝙀 𝙋𝙀𝙇𝙐𝙉𝙂𝘼
+    𝙏𝙀𝙍𝙀 𝘽𝙐𝘼 𝙆𝙀 𝘽𝙃𝙊𝙓𝘿𝙀 𝙈𝙀𝙄 𝙇𝙐𝙓 𝙎𝘼𝘽𝙊𝙊𝙉 𝘿𝘼𝙇 𝙆𝙀 𝘾𝙃𝙊𝘿𝙐𝙉𝙂𝘼 𝙍𝘼𝙉𝘿𝙄 𝙆𝙀 𝙊𝙇𝘼𝘿 !!
+    𝙂𝘼𝙇𝘼𝙏 𝙋𝘼𝙉𝙂𝘼 𝙇𝙀 𝙇𝙄𝙔𝙀 𝘽𝙀𝙏𝘼 👹𝙏𝙐 𝘼𝘽 𝘽𝙃𝙐𝙂𝘼𝙏 𝘽𝙊𝙎𝘿𝘼𝙄 𝙆𝙀 😂
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙈𝙀𝙄 𝘼𝙆47 𝙎𝙀 𝙂𝙊𝙇𝙄 𝙈𝘼𝙍𝙐𝙉𝙂𝘼 𝘿𝙃𝘼𝙆 𝘿𝙃𝘼𝙆 𝘿𝙃𝘼𝙆 𝘿𝙃𝘼𝙆 😂😚
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙀 𝙃𝘼𝙏𝙃 𝙆𝙊 𝙋𝙀𝙀𝘾𝙃𝙀 𝙆𝙄 𝙏𝘼𝙍𝘼𝙁 𝙈𝙐𝘿𝘼 𝙆𝙀 𝙐𝙎𝙆𝙀 𝙂𝘼𝙉𝘿 𝙈𝙀𝙄 𝘼𝙋𝙉𝘼 𝙇𝙊𝘿𝘼 𝘿𝘼𝙇 𝘿𝙐𝙉𝙂𝘼 𝘼𝙐𝙍 𝙒𝙊 𝘼𝙇𝘼𝙇𝘼 𝙆𝙀 𝙈𝘼𝙍𝙅𝘼𝙔𝙀𝙄 💯💋😂🙈
+    𝘽𝘼𝘼𝙋 𝘽𝙊𝙇 𝙈𝘼𝘿𝘼𝙍𝘾𝙃𝙊𝘿 𝙂𝘼𝙉𝘿 𝙆𝙄 𝙋𝘼𝙄𝘿𝘼𝙄𝙎 😂
+    𝙅𝙃𝘼𝙏𝙐 𝙎𝘼𝙇𝙀 𝙏𝙀𝙍𝙄 𝘽𝙃𝙀𝙉 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙋𝙀 𝘾𝘼𝙆𝙀 𝙇𝘼𝙂𝘼 𝙆𝙀 𝘾𝙃𝘼𝙏 𝙅𝘼𝙐𝙉𝙂𝘼 👾👹
+    Teri ammy ka life insurance krwa ke usko aisa ch0dunga ki wo marjaye
+    𝙅𝙃𝘼𝘿𝙐 𝙐𝙏𝙃𝘼 𝙆𝙀 𝙏𝙀𝙍𝙀 𝙂𝘼𝙉𝘿 𝙈𝙀𝙄 𝘿𝘼𝙇 𝙆𝙀 𝙏𝙐𝙅𝙃𝙀 𝙈𝙊𝙍𝙀 𝘽𝘼𝙉𝘼 𝘿𝙐𝙉𝙂𝘼 𝘽𝙊𝙎𝘼𝘿𝙄 𝙆𝙀 😂👍
+    𝙇𝙖̃𝙉𝙙 𝘾𝙃𝙐𝙎𝙀𝙂𝘼 𝙈𝙀𝙍𝘼 𝙈𝘼𝘿𝘼𝙍𝘾𝙃𝙤̀𝘿 𝘽𝙃𝙀𝙉 𝙆𝙀 𝙇𝙊𝘿𝙀𝙀𝙀𝙀😆💯
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙊 𝙅𝙃𝙐𝙇𝘼 𝙅𝙃𝙐𝙇𝘼 𝙆𝙀 𝙆𝘼𝘾𝙃 𝙆𝘼𝘾𝙃 𝙋3𝙇𝙐𝙉𝙂𝘼 👐👐👃
+    𝘽𝙃𝙀𝙉 𝙆𝙊 𝙏𝙀𝙍𝙄 𝘾𝙃𝙊𝘾𝙊𝙇𝘼𝙏𝙀 𝙆𝙃𝘼𝙍𝙄𝘿 𝙆𝙀 𝙐𝙎𝙆𝙀 𝘾𝙃𝙐𝙏 𝙈𝙀𝙄 𝘿𝘼𝙇 𝘿𝙐𝙉𝙂𝘼 👻
+    teri behn ko jhule pe baitha ke uski ch00t pe apna garam l0da touch karaunga
+    Teri behn ko uske college ke library me hi ch0d ke pregnant krdunga l0du
+    Teri behn ke muh me l0da dal ke usse papa bulwaunga khud ko
+    Bhains jaisi ammy ke aulaad sale l0du jaise shakal ke 
+    tere baap ko bich sadak pe gira gira ke m@runga aur last me uske muh pe m00t kr jaunga 
+    Teri ammy ko Ghar me ghuma ke impress krke fir usi thar ke bonat pe leta ke uski gulabi ch00t lunga
+    Jh@nt ke pissu sale l0du kahi ke r@nd ki olad
+    Teri ammy ke bhxde ko jalte huye koyle pe shek ke pelunga
+    Teri behn ko sardi ki thandi me chhat pe nanga krke ch0dunga m@charch0d
+    Teri ammy ka blowj faad ke uske ch00chi pe apna l0da marunga aur kacha kach pelunga
+    𝙅𝘽 𝙈𝘼𝙄 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙀 𝙂𝘼𝙉𝘿 𝙈𝙀𝙄 𝙇𝘼𝙉𝘿 𝘿𝘼𝙇𝙉𝙀 𝙂𝘼𝙔𝘼 𝙏𝙊𝙃 𝙈𝙀𝙍𝘼 𝙇𝘼𝙉𝘿 𝙃𝙄 𝙈𝙐𝘿 𝙂𝙔𝘼
+    𝘾𝙃𝘼𝙇𝙏𝙄 𝙎𝘼𝘿𝘼𝙆 𝙋𝙀 𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙀 𝙈𝙐𝙃 𝙈𝙀𝙄 𝘿𝙀 𝘿𝙀𝙏𝘼 𝙃𝙐𝙉 𝙈𝘼𝙄 😂😂😂😂😂😂😂
+    4,4 𝘾𝙊𝙉𝘿𝙊𝙈 𝙐𝙎𝙀 𝙆𝙄𝙔𝙀 𝙀𝙆 𝘿𝙄𝙉 𝙈𝙀𝙄 𝙏𝙀𝙍𝙄 𝘾𝙃𝙊𝙏𝙄 𝘽𝙃𝙀𝙉 𝙋𝙀
+    𝘽𝙐𝙆𝙃𝘼𝙍 𝙃𝙊𝙏𝙀 𝙃𝙐𝙔𝙀 𝙋𝙀𝙇𝘼 𝙏𝙀𝙍𝙄 𝘽𝙃𝙀𝙉 𝙆𝙊
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝘽𝘼𝙃𝙐𝙍 𝙅𝘼𝘼𝙉𝘿𝘼𝘼𝙍 𝙃𝘼𝙄 𝙎𝘼𝙇𝙄 𝘾𝙃𝙄𝙇𝙇𝘼𝙄 𝙏𝘼𝙆 𝙉𝙃𝙄 𝙅𝘼𝘽 𝙈𝘼𝙄𝙉𝙀 𝙐𝙎𝙆𝙀 𝙎𝘼𝙏𝙃 𝘼𝙉𝘼𝙇 𝙆𝙄𝙔𝘼 😂😘
+    𝙏𝙀𝙍𝙄 𝘽𝙃𝙀𝙉 𝙅𝙄𝙎𝙎 𝙃𝙊𝙎𝙏𝙇𝙀 𝙈𝙀𝙄 𝙍𝙀𝙃𝙏𝙄 𝙉 𝙐𝙎𝙆𝙊 𝙍𝙊𝙅 𝘿𝙀𝙀𝙒𝘼𝙇 𝙆𝙐𝘿𝘼𝙏𝙏𝘼 𝙃𝙐𝙉 𝙈𝘼𝙄 😶😶
+    𝙏𝙀𝙍𝙄 𝘽𝙃𝙀𝙉 𝙈𝙀𝙍𝙀 𝙆𝘼𝘾𝘾𝙃𝙀 𝙆𝙊 𝘼𝙋𝙉𝘼 𝙈𝘼𝙎𝙆 𝙎𝘼𝙈𝘼𝙅𝙃 𝙆𝙀 𝙋𝙀𝙃𝙉𝙏𝙄 𝙃𝘼𝙄 😂
+    𝘼𝙋𝙉𝙊 𝘽𝙐𝘼 𝙆𝙊 𝙎𝘼𝙈𝙅𝘼 𝘿𝙀 𝙒𝘼𝙍𝙉𝘼 𝘼𝙄𝙎𝘼 𝙆𝙀𝙀𝙉𝘾𝙃 𝙆𝙀 𝙏𝙃𝘼𝙋𝙋𝘼𝘿 𝙈𝘼𝙍𝙐𝙉𝙂𝘼 𝙈𝘼𝙍 𝙅𝘼𝙔𝙀𝙂𝙄 𝙎𝘼𝙇𝙇𝙄 𝘽𝘼𝙃𝙐𝙍 𝙐𝘾𝙃𝙃𝘼𝙇𝙏𝙄 😂
+    𝘽𝙄𝙇𝙇𝙄𝘾𝙃𝙊𝘿𝙀 𝙎𝘼𝙇𝙀 𝘽𝘼𝘼𝙋 𝙎𝙀 𝙂𝘼𝙉𝘿𝙈𝘼𝙎𝙏𝙄 𝙆𝘼𝙍𝙀𝙂𝘼 𝙏𝙐 😂
+    𝙏𝙀𝙍𝙄 𝙈𝘼 𝙆𝙄 𝘾𝙃𝙐𝙏 𝙆𝙄𝙏𝙉𝘼 𝘾𝙃𝙊𝙏𝘼 𝙃𝘼𝙄 𝙍𝙀 𝙆𝘼𝙄𝙎𝙀 𝘽𝘼𝙃𝘼𝙍 𝘼𝙔𝘼 𝙏𝙐😂😂
 ]
 
 
