@@ -1022,7 +1022,7 @@ async def gifspam(e, smex):
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*bio"))
 
 async def _(e):
-    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗕𝗶𝗼\n\nCommand:\n\n.bio <Message to set Bio of Userbot accounts>"
+    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 =𝗕𝗶𝗼\n\nCommand:\n\n.bio <Message to set Bio of Userbot accounts>"
     if e.sender_id in SMEX_USERS:
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)     
         if len(e.text) > 5:
@@ -1031,7 +1031,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("Succesfully Changed Bio By MULTI SPAMBOT")
+                await event.edit("Succesfully Changed Bio By 𝙸𝚝𝚊𝚌𝚑𝚒 𝚂𝚙𝚊𝚖𝙱𝚘𝚝")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1174,7 +1174,7 @@ async def _(e):
         if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "𝐇𝐘𝐏𝐄𝐑 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 𝐋𝐄𝐀𝐕𝐈𝐍𝐆....."
+            text = "𝐈𝐓𝐀𝐂𝐇𝐈 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 𝐋𝐄𝐀𝐕𝐈𝐍𝐆....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
@@ -1801,7 +1801,7 @@ async def get_users(event):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "💥💣💣💥!"
+        text = "⛓️😈⛓️!"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
@@ -2016,12 +2016,12 @@ async def help(e):
         
 text = """
 
-💥💥 𝗛𝗬𝗣𝗘𝗥 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 💥💥💥
-💥𝗕𝗬 @ITS_KING_HYPER 💥"""
+💥💥💥 𝗜𝗧𝗔𝗖𝗛𝗜 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 💥💥💥
+💥𝗕𝗬 @Sirupate 💥"""
 
 print(text)
 print("")
-print("𝗛𝗬𝗣𝗘𝗥 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬")
+print("𝗜𝗧𝗔𝗖𝗛𝗜 𝗠𝗨𝗟𝗧𝗜 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗥𝗘𝗔𝗗𝗬")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
